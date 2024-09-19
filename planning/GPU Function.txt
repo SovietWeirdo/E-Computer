@@ -1,0 +1,18 @@
+SCREEN RES 320 x 240
+
+TEXT MODES
+40 x 30 Characters per screen
+8  x 8  Pixels per character
+
+BITMAP MODES
+320 x 240 Pixels per screen
+76800 address space
+-------------------
+160 x 240 Pixels per screen
+38400 address space
+-------------------
+320 x 120 Pixels per screen
+38400 address space
+-------------------
+160 x 120 Pixels per screen
+19200 address space
